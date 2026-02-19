@@ -1,4 +1,4 @@
-# 🌺 Trigger-Key, The Macro Engine for Hotkeys Hotstrings
+# 🌺 TaskScript The Macro Engine for Hotkeys Hotstrings
 The Macro Engine uses simple, human-readable tags to define automation commands.
 Users can trigger macros using Trigger Text or Trigger Keys, and perform actions like launching apps, typing text, waiting, and showing custom messages.
 This system is easy to edit, fully modular, and powerful for productivity scripting that allows users to load custom Hotkeys, Hotstrings, and automation modules at runtime—without editing the main script.
