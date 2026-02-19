@@ -17,7 +17,7 @@ This system is easy to edit, fully modular, and powerful for productivity script
 |\<SEND> | Type text in a single line (no auto newline) |
 |\<START> | Beginning of macro commands |
 |\<END> | End of macro commands |
-|Normal text | Multi-line typing block between <START> and <END> 
+|Normal text | Multi-line typing block between \<START> and \<END> Tags 
 
 ## 🧱 **Basic Structure**
 ***Every macro looks like this:***
